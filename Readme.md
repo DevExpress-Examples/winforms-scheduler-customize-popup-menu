@@ -45,7 +45,7 @@ private void schedulerControl1_PopupMenuShowing(object sender, PopupMenuShowingE
 
 * [Scheduler Pop-up Menus](https://docs.devexpress.com/WindowsForms/119049/controls-and-libraries/scheduler/visual-elements/pop-up-menus)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-customize-popup-menu&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-customize-popup-menu&~~~was_helpful=no)
 
