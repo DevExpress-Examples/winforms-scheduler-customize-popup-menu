@@ -38,7 +38,7 @@ private void schedulerControl1_PopupMenuShowing(object sender, PopupMenuShowingE
 }
 ```
 
-![WinForms Scheduler - Customize the popup menu](https://raw.githubusercontent.com/DevExpress-Examples/how-to-customize-the-scheduler-popup-menu-e2554/17.2.3+/media/f796b593-631a-11e7-80c0-00155d624807.png)
+![WinForms Scheduler - Customize the popup menu](media/f796b593-631a-11e7-80c0-00155d624807.png)
 
 
 ## See Also
@@ -51,3 +51,4 @@ private void schedulerControl1_PopupMenuShowing(object sender, PopupMenuShowingE
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
